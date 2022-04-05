@@ -1,0 +1,9 @@
+// Express - framework
+// Middleware
+// Req , Res
+// Routing
+// Return HTML pages (File)
+
+// Server side logic
+// Store products in cart
+// Post pics , like photos
