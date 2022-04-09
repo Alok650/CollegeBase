@@ -7,3 +7,41 @@
 // Server side logic
 // Store products in cart
 // Post pics , like photos
+
+// Mongodb
+// mongoose
+// Use in this project
+
+Sessions & cookies
+Authentication
+
+RDBMS / DBMS
+SQL / NOSQL
+
+Student - Table
+Name Roll Course Batch EMail
+Mukul 11 
+
+
+NOSQL - Mongodb, firebase , dynamodb
+Student - Collection
+{
+    Name : "Mukul",
+    Roll : 11,
+    Course : "DBMS"
+},
+{
+    Name: "Nitin"
+},
+{
+    Name:",
+    Roll:,
+    EMail
+}
+
+{
+    Name: String,
+    Email : String 
+}
+
+cart : [{image:,title:,cost:}]
